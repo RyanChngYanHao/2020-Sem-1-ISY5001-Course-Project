@@ -15,7 +15,7 @@
 ---
 
 ## SECTION 1 : PROJECT TITLE
-## Investment Rmini - Stock Forecast & Portfolio Recommender
+## Investment Rmini - Stock Forecast & Portfolio Recommender `Under Construction`
 
 <img src="Miscellaneous/Investment_Rmini.png"
      style="float: left; margin-right: 0px;" />
@@ -23,7 +23,7 @@
 ---
 
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
-<under construction>
+
 ---
 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
@@ -37,8 +37,8 @@
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-<under construction>
-[![Sudoku AI Solver](http://img.youtube.com/vi/-AiYLUjP6o8/0.jpg)](https://youtu.be/-AiYLUjP6o8 "Sudoku AI Solver")
+
+[![ForMTechApplication](https://www.youtube.com/watch?v=PEb1GIHiPP8)
 
 Note: It is not mandatory for every project member to appear in video presentation; Presentation by one project member is acceptable. 
 More reference video presentations [here](https://telescopeuser.wordpress.com/2018/03/31/master-of-technology-solution-know-how-video-index-2/ "video presentations")
@@ -46,8 +46,8 @@ More reference video presentations [here](https://telescopeuser.wordpress.com/20
 ---
 
 ## SECTION 5 : USER GUIDE
-<under construction>
-`Refer to appendix <Installation & User Guide> in project report at Github Folder: ProjectReport`
+
+`Refer to appendix <Quick User Guide> in project report at Github Folder: ProjectReport`
 
 ### [ 1 ] To run the system using iss-vm
 
