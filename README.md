@@ -1,5 +1,5 @@
 ## SECTION 1 : PROJECT TITLE
-## Investment Rmini - Stock Forecast & Portfolio Recommender `Under Construction`
+## Investment Rmini - Stock Forecast & Portfolio Recommender
 
 <img src="Miscellaneous/InvestmentRmini.png"
      style="float: left; margin-right: 0px;" />
@@ -24,7 +24,7 @@
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-> Video here
+> Video [Intro to Investment Rmini](https://)
 
 ---
 
@@ -47,7 +47,7 @@
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-`Refer to project report at Github Folder: ProjectReport`
+`Refer to <ProjectReport> at Github Folder: ProjectReport`
 
 **Recommended Sections for Project Report / Paper:**
 - Executive Summary
@@ -68,7 +68,7 @@
 
 - Investment_Rmini.png
 - Executive_Summary.png
-- Compatible .csv samples for csv folder (copy to csv folder after unzip)
+- Compatible .csv samples for csv folder (copy sample csv to csv folder after unzip)
 
 ---
 
