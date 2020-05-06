@@ -24,7 +24,8 @@
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-> Video [Intro to Investment Rmini](https://)
+> View [Short Intro](https://www.youtube.com/watch?v=jLQJyCDhMn4)
+> View [Demo](https://www.youtube.com/watch?v=jLQJyCDhMn4)
 
 ---
 
