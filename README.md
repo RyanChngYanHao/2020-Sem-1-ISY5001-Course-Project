@@ -1,19 +1,3 @@
-### [ Practice Module ] Project Submission Template: Github Repository & Zip File
-
-**[ Naming Convention ]** CourseCode-StartDate-BatchCode-TeamName-ProjectName.zip
-
-* **[ MTech Thru-Train Group Project Naming Example ]** IRS-PM-2020-01-18-IS02PT-GRP-AwsomeSG-HDB_BTO_Recommender.zip
-
-* **[ MTech Stackable Group Project Naming Example ]** IRS-PM-2020-01-18-STK02-GRP-AwsomeSG-HDB_BTO_Recommender.zip
-
-[Online editor for this README.md markdown file](https://pandao.github.io/editor.md/en.html "pandao")
-
----
-
-### <<<<<<<<<<<<<<<<<<<< Start of Template >>>>>>>>>>>>>>>>>>>>
-
----
-
 ## SECTION 1 : PROJECT TITLE
 ## Investment Rmini - Stock Forecast & Portfolio Recommender `Under Construction`
 
@@ -22,7 +6,10 @@
 
 ---
 
-## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
+## SECTION 2 : EXECUTIVE SUMMARY
+
+<img src="Miscellaneous/Executive_Summary.png"
+     style="float: left; margin-right: 0px;" />
 
 ---
 
@@ -38,10 +25,10 @@
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
 
-[![ForMTechApplication](https://www.youtube.com/watch?v=PEb1GIHiPP8)
+<[![ForMTechApplication](https://www.youtube.com/watch?v=PEb1GIHiPP8)>
 
-Note: It is not mandatory for every project member to appear in video presentation; Presentation by one project member is acceptable. 
-More reference video presentations [here](https://telescopeuser.wordpress.com/2018/03/31/master-of-technology-solution-know-how-video-index-2/ "video presentations")
+<Note: It is not mandatory for every project member to appear in video presentation; Presentation by one project member is acceptable.>
+<More reference video presentations [here](https://telescopeuser.wordpress.com/2018/03/31/master-of-technology-solution-know-how-video-index-2/ "video presentations")>
 
 ---
 
@@ -49,30 +36,17 @@ More reference video presentations [here](https://telescopeuser.wordpress.com/20
 
 `Refer to appendix <Quick User Guide> in project report at Github Folder: ProjectReport`
 
-### [ 1 ] To run the system using iss-vm
+### Able to run standalone:
 
-> download pre-built virtual machine from http://bit.ly/iss-vm
+> download .zip from SystemCodes and unzip
+> begin by running Investment_Rmini.xlsm
 
-> start iss-vm
-
-> open terminal in iss-vm
-
-> $ git clone https://github.com/telescopeuser/Workshop-Project-Submission-Template.git
-
-> $ source activate iss-env-py2
-
-> (iss-env-py2) $ cd Workshop-Project-Submission-Template/SystemCode/clips
-
-> (iss-env-py2) $ python app.py
-
-> **Go to URL using web browser** http://0.0.0.0:5000 or http://127.0.0.1:5000
-
-### [ 2 ] To run the system in other/local machine:
-### Install additional necessary libraries. This application works in python 2 only.
-
-> $ sudo apt-get install python-clips clips build-essential libssl-dev libffi-dev python-dev python-pip
-
-> $ pip install pyclips flask flask-socketio eventlet simplejson pandas
+### Recommended: 
+> Internet connection (for data download)
+> Windows 10
+> Microsoft Visual Basic for Applications enabled; Microsoft Excel 
+> Microsoft Solver Add-in & library enabled in VBA environment 
+> R 3.6.3; packages: forecast; ggplot2; ggpubr & their dependencies
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
@@ -93,12 +67,12 @@ More reference video presentations [here](https://telescopeuser.wordpress.com/20
 
 ---
 ## SECTION 7 : MISCELLANEOUS
-<under construction>
+
 `Refer to Github Folder: Miscellaneous`
 
-### HDB_BTO_SURVEY.xlsx
-* Results of survey
-* Insights derived, which were subsequently used in our system
+* Investment_Rmini.png
+* Executive_Summary.png
+* Workable .csv samples for csv folder
 
 ---
 
