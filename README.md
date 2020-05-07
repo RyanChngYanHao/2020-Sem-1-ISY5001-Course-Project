@@ -31,7 +31,7 @@
 
 ## SECTION 5 : USER GUIDE
 
-`Refer to appendix`[QuickUserGuide](https://github.com/RyanChngYanHao/IRS-PM-2020-01-18-ISY5001-GRP3-Investment_Rmini/blob/master/ProjectReport/QuickUserGuide.pdf) `in project report at Github Folder: ProjectReport`
+`Refer to appendix`[QuickUserGuide](https://github.com/RyanChngYanHao/IRS-PM-2020-01-18-ISY5001-GRP3-Investment_Rmini/blob/master/ProjectReport/QuickUserGuide.pdf) `in Github Folder: ProjectReport`
 
 ### Able to run standalone:
 
@@ -48,7 +48,7 @@
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-`Refer to`[ProjectReport](https://github.com/RyanChngYanHao/IRS-PM-2020-01-18-ISY5001-GRP3-Investment_Rmini/blob/master/ProjectReport/ProjectReport.pdf) `at Github Folder: ProjectReport`
+`Refer to`[ProjectReport](https://github.com/RyanChngYanHao/IRS-PM-2020-01-18-ISY5001-GRP3-Investment_Rmini/blob/master/ProjectReport/ProjectReport.pdf) `in Github Folder: ProjectReport`
 
 **Recommended Sections for Project Report / Paper:**
 - Executive Summary
